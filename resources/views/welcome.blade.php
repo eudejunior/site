@@ -22,7 +22,7 @@
     </head>
     <body class="antialiased">
         <div>
-            Meu Site
+            Meu Site Eude Junior
         </div>
     </body>
 </html>
